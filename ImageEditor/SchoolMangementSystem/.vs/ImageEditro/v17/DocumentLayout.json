@@ -1,0 +1,276 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|c:\\users\\julian\\onedrive\\desktop\\school-management-system-using-csharp-main-main\\schoolmangementsystem\\schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\SchoolMangementSystem.csproj|solutionrelative:schoolmangementsystem\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\loginform.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\createaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\schoolmangementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{45571F64-19CE-4CF1-B353-FEF60CFBF3B3}|SchoolMangementSystem\\PhotoSculptor.csproj|solutionrelative:schoolmangementsystem\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 156,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:05:35.376Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:04:05.441Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\CreateAccount.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\CreateAccount.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\CreateAccount.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADgvyAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T01:03:59.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateAccount.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\CreateAccount.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\CreateAccount.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\CreateAccount.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\CreateAccount.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:54:31.358Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form2.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\Form2.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form2.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\Form2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:33:07.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form2.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\Form2.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form2.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T00:30:15.266Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\MainForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:23:37.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\App.config",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\App.config",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\App.config",
+              "RelativeToolTip": "SchoolMangementSystem\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-03-20T11:44:25.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginForm.resx",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.resx",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.resx",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.resx",
+              "RelativeToolTip": "SchoolMangementSystem\\LoginForm.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-03-20T11:44:20.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.Designer.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:42:01.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\LoginForm.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAvwIoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:37:22.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\MainForm.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\MainForm.cs [Design]",
+              "RelativeToolTip": "SchoolMangementSystem\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:16:43.909Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs",
+              "RelativeToolTip": "SchoolMangementSystem\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:14:42.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\FIKES\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\FIKES\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:12:19.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Julian\\OneDrive\\Desktop\\School-Management-System-using-CSharp-main-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs",
+              "RelativeDocumentMoniker": "SchoolMangementSystem\\Form1.cs",
+              "ToolTip": "C:\\Users\\Julian\\OneDrive\\Desktop\\FIKES\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\..\\FIKES\\School-Management-System-using-CSharp-main\\SchoolMangementSystem\\SchoolMangementSystem\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T11:12:15.867Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
